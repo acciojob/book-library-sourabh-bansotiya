@@ -31,9 +31,11 @@ button{
 .book{
 	margin: 10px;
 	color: black;
+	margin-top: 40px;
 }
 
 #btn{
-	background-color: green;
+	background-color: rgb(46, 204, 113);
+	height: 20px;
 	width: 100%;
 }
