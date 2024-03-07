@@ -1,4 +1,10 @@
 /*  your css code here. If applicable */
+.book{
+	margin: 10px;
+	color: black;
+	margin-top: 40px;
+}
+
 h1{
 	text-align: center;
 }
@@ -28,14 +34,10 @@ button{
 	width: 100%;
 }
 
-.book{
-	margin: 10px;
-	color: black;
-	margin-top: 40px;
-}
 
 #btn{
 	background-color: rgb(46, 204, 113);
 	height: 20px;
 	width: 100%;
+	color: rgb(255, 255, 255);
 }
