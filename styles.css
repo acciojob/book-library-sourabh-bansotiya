@@ -1,1 +1,29 @@
 /*  your css code here. If applicable */
+h1{
+	text-align: center;
+}
+img{
+	justify-content: center;
+	text-align: center;
+	justify-items: center;
+	margin-left: 35%;
+}
+body{
+	Background-color: #f8f8f8;
+}
+.book-library{
+	Background-color: #ffffff;
+	color: white;
+	width: 100%;
+    height:20px;
+	border: 1px solid;
+	margin-top: 20px;
+	margin-bottom:20px;
+}
+h5{
+	color: #777777;
+}
+button{
+	background-color: #2ecc71;
+	width: 100%;
+}
