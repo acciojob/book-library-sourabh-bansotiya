@@ -31,3 +31,7 @@ button{
 	margin: 10px;
 	color: black;
 }
+#btn{
+	background-color: rgb(46, 204, 113);
+	width: 100%;
+}
